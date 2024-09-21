@@ -1,0 +1,25 @@
+{
+  "welcome": "مرحبا",
+  "pass": "كلمة السر",
+  "forget": "نسيان كلمة السر",
+  "signup": "تسجيل دخول",
+  "login": "تسجيل دخول",
+  "createaccount": "انشاء حساب جديد",
+  "username" : "اسم المستخدم",
+  "done" : "تم !",
+  "task": "المهمه",
+  "tasks": "المهام",
+  "settings" : "الاعدادات",
+  "addtask" : "اضافة مهمه جديدة",
+  "task": "المهمه",
+  "description": "الوصف",
+  "selecttime" : "اختر الوقت",
+  "save" : "حفظ",
+  "delete" : "حذف",
+  "language" : "اللغة",
+  "mode" : "النمط",
+  "darkmode" : "غامق",
+  "lightmode" : "مضئ",
+  "email": "البريد الالكتروني"
+
+}

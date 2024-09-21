@@ -1,0 +1,25 @@
+{
+"welcome": "Welcome",
+  "pass": "Password",
+  "forget": "Forgot password ?",
+  "signup": "Sign up",
+  "login": "Log in",
+  "createaccount": "Create a new account ?",
+  "username" : "User name",
+  "done" : "Done !",
+  "tasks": "Tasks",
+  "task": "Tasks",
+  "settings" : "Settings",
+  "addtask" : "Add A new Task",
+  "task": "The Task",
+  "description": "The description",
+  "selecttime" : "Select A Time",
+  "save" : "Save",
+  "delete" : "Delete",
+  "language" : "Language",
+  "mode" : "Mode",
+  "darkmode" : "Dark",
+  "lightmode" : "Light",
+  "email": "Email"
+
+}
